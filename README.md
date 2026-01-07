@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Oliver, aka Shrxky 👋
 
 # 💫 About Me:
 <br>    🏫 I am a 1st year student and Guilford College.<br>    🧑‍💻 I love using Software as a solution for every Problem.<br>    💻 I am a competitive and aspiring programmer.<br>    🧑‍🎓 I’m currently learning Computer Science and Software Engineering.<br>    🤓 Always learning new things.<br>    🤔 I’m currently open for a new job opportunity.<br>    💥 I love programming in python, javascript and C++.<br>
